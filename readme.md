@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 
 
 # REINFORCEMENT LEARNING AND COMPUTER VISION FOR AUTONOMOUS ROBOT CONTROL
